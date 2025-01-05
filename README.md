@@ -34,7 +34,7 @@ API RESTful pour l'application Mini Réseau Social, construite avec Node.js, Exp
 
 1. Clonez le dépôt :  
 
-   ```bash
+  ```bash
 
    git clone https://github.com/ibtissemkraiem/Social-Media-App-Backend.git
 
